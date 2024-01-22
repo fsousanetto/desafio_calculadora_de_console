@@ -1,0 +1,12 @@
+{
+  "name": "desafio_calc_console",
+  "version": "1.0.0",
+  "description": "Calculadora básica de linha de comando",
+  "main": "app.js",
+  "scripts": {
+    "start": "node src/app.js"
+  },
+  "keywords": [],
+  "author": "Francisco Netto",
+  "license": "ISC"
+}
